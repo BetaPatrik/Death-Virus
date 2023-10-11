@@ -1,1 +1,1 @@
-Run This As A Admin So It Works
+Run The DestroyPC.bat As A Admin So It Works
